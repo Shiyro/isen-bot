@@ -13,5 +13,6 @@ Dependences :
  - apschduler
  - youtube-dl
  - pynacl
+ - ffmpeg (lib python + software)
 
 Des questions ? Demande moi sur discord : Shiyro#6328
