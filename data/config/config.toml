@@ -1,0 +1,13 @@
+###BOTS###
+"token"="MTAyNTAyMjcxNzg4OTYzMDIyOA.GtHW4B.-3ZsdiFhoJduuZXN0gtNj0Ibt0axjIffieXS_o" # the bot's token
+"prefix"="?" # prefix used to denote commands
+
+###DB###
+"host"="" #the db address
+"dbname"="" #the db name
+"user"="" #the db users
+"password"="" #the db user password
+
+#Options for the voice chat hub
+"hub_category_id"="" # The category where the vc are going to be created.
+"hub_vc_id"="" # The hub id.
