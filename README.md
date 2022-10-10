@@ -11,6 +11,7 @@ Dependences :
  - py-cord (Attention : pycord != py-cord)
  - toml
  - apschduler
- - youtubedl
+ - youtube-dl
+ - pynacl
 
 Des questions ? Demande moi sur discord : Shiyro#6328
