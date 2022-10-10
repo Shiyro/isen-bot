@@ -6,3 +6,11 @@ Get Started :
  - Copier le token du bot dans /data/config/config.toml
  - Installer les dependences
  - Lancer le bot !
+
+Dependences :
+ - py-cord (Attention : pycord != py-cord)
+ - toml
+ - apschduler
+ - youtubedl
+
+Des questions ? Demande moi sur discord : Shiyro#6328
